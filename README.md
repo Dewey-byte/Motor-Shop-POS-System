@@ -221,8 +221,13 @@ Analytics dashboard for admins
 👨‍💻 Developers
 
 Project Title: Motorcycle Shop POS System
+
 Developed by: Cleentson Dewey Lenterna, Jase Karl Zerrudo, Krhisha Marie Cavan / The Think Tank Group 
+
 Course: BS Information Technology
+
 Subject: System Integration and Architecture 1 / System Development Final Project
-Instructor: Janett M. Claro,MIT
+
+Instructor: Janette M. Claro,MIT
+
 Year: 2025
